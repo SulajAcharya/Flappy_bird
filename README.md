@@ -1,4 +1,4 @@
-# # Flappy Bird Game 🐦🎮
+# # Flappy Bird Game 🐥🎮
 
 Welcome to **Flappy Bird**, a classic and addictive arcade game that will keep you on the edge of your seat! Control your little bird as it flaps its wings through pipes, and try to avoid obstacles to achieve the highest score possible. Get ready for a fun and challenging adventure! 🚀
 
